@@ -206,3 +206,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Runtime data
+notebooks/logs/
+notebooks/screenshots/
+notebooks/inferred_log.jsonl
+notebooks/grouped_sessions.json
+*.jsonl
