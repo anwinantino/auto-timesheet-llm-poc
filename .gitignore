@@ -213,3 +213,7 @@ notebooks/screenshots/
 notebooks/inferred_log.jsonl
 notebooks/grouped_sessions.json
 *.jsonl
+# Runtime generated files
+notebooks/daily_summary.json
+notebooks/timesheet.db
+*.db
